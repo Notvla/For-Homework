@@ -1,0 +1,15 @@
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\bin\Debug\net6.0\Task45.exe
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\bin\Debug\net6.0\Task45.deps.json
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\bin\Debug\net6.0\Task45.runtimeconfig.json
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\bin\Debug\net6.0\Task45.dll
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\bin\Debug\net6.0\Task45.pdb
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.csproj.AssemblyReference.cache
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.AssemblyInfoInputs.cache
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.AssemblyInfo.cs
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.csproj.CoreCompileInputs.cache
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.dll
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\refint\Task45.dll
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.pdb
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\Task45.genruntimeconfig.cache
+C:\Users\justv\Desktop\Git\С# Homework Laptop\Task45\obj\Debug\net6.0\ref\Task45.dll
